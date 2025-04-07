@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning neuronal development in data Science at DesafioLATAM
 - 📫 Reach me in Linkedin www.linkedin.com/in/sebastian-requena-394b72223
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I use to play Dance Dance Revolution, still have the moves, but im not playing it as much as would like.  
+- ⚡ Fun fact: I use to play Dance Dance Revolution, still have the moves, but im not playing it as much as would like.
+- World of warcraft affectionate, for the alliance!
 
 <!---
 SebastianRequena/SebastianRequena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
