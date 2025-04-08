@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebastianRequena
-- 👀 I’m interested in Data analyst and everything that has relation with it, i'm a sucker for the statistic problems, can hear and read about it all day.
+- 👀 I’m interested in Data analysis and everything that has relation with it, i'm a sucker for the statistic problems, can hear and read about it all day.
 - 🌱 I’m currently learning neuronal development in data Science at DesafioLATAM
 - 📫 Reach me in Linkedin www.linkedin.com/in/sebastian-requena-394b72223
 - 😄 Pronouns: He/him
