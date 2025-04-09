@@ -4,7 +4,7 @@
 - 📫 Reach me in Linkedin www.linkedin.com/in/sebastian-requena-394b72223
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I used to play Dance Dance Revolution, still have the moves, but im not playing it as much as would like.
-- ⚡⚡ World of warcraft affectionate, for the alliance!
+- ⚡⚡ World of warcraft affectionate, Light be with you!
 
 <!---
 SebastianRequena/SebastianRequena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
